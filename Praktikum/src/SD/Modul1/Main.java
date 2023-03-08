@@ -19,7 +19,7 @@ public class Main {
         nasi.setNamaHidangan("Nasi Putih");
         Minuman air = new Minuman();
         air.setNamaHidangan("Air Putih");
-        breakfast.setKonsumsi(nasi, air);
+        lunch.setKonsumsi(nasi, air);
         listKonsumsi.add(lunch);
 
         System.out.println("Menu Makanan");
