@@ -1,0 +1,20 @@
+Alamat : malang 
+Panjang Tanah : 2000 meter
+Luas Tanah : 3000 meter
+
+Alamat : abc
+Panjang Tanah : 100 meter
+Luas Tanah : 200 meter
+
+Alamat : malang
+Panjang Tanah : 1000 meter
+Luas Tanah : 2000 meter
+
+Alamat : malang 
+Panjang Tanah : 1000 meter 
+Luas Tanah : 2000 meter
+
+Alamat : abc 
+Panjang Tanah : 1000 meter 
+Luas Tanah : 2000 meter
+
