@@ -1,4 +1,4 @@
-package SD.Modul1;
+package SD.Modul1.Latihan;
 
 import java.util.ArrayList;
 
@@ -23,7 +23,7 @@ public class Main {
         listKonsumsi.add(lunch);
 
         System.out.println("Menu Makanan");
-        for(Konsumsi<Makanan, Minuman> konsumsi: listKonsumsi){
+        for(Konsumsi < Makanan, Minuman > konsumsi: listKonsumsi){
             Makanan makanan = konsumsi.getM();
             Minuman minuman = konsumsi.getI();
 

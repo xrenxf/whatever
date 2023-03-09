@@ -1,4 +1,4 @@
-package SD.Modul1;
+package SD.Modul1.Latihan;
 
 public class Konsumsi <M, I>{
     private M m;
